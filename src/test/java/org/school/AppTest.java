@@ -1,4 +1,4 @@
-package org.library;
+package org.school;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
